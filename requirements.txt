@@ -1,0 +1,44 @@
+# Geospatial & Remote Sensing
+rasterio
+rioxarray
+xarray
+geopandas
+shapely
+pyproj
+fiona
+pystac
+pystac-client
+
+# Data Processing
+pandas
+numpy
+scipy
+scikit-learn
+
+# Deep Learning / Foundation Models
+lightning
+terratorch
+
+# Visualization
+matplotlib
+seaborn
+folium
+
+# HTTP & Data Access
+requests
+cdsapi
+huggingface_hub
+
+# Jupyter & Widgets
+ipywidgets
+tqdm
+
+# Geocoding
+geopy
+
+# YAML
+pyyaml
+
+# Google Colab (optional)
+# gdown
+# google-colab
